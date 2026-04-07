@@ -1,3 +1,10 @@
+
+# Video da Biblioteca Funcionando:
+
+# https://www.youtube.com/watch?v=sUTPvg8h9f4
+
+-------------------
+
 # Biblioteca API 📚
 
 Uma API REST simples para gerenciar livros, feita com FastAPI, MongoDB e Docker.
@@ -76,3 +83,6 @@ biblioteca-api/
 ```
 
 A estrutura segue a arquitetura modular, separando as responsabilidades em camadas: schemas para validação, repositories para acesso ao banco, services para as regras de negócio e routers para as rotas da API.
+
+
+
